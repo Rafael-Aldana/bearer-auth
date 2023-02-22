@@ -48,5 +48,5 @@ module.exports = {
   handleSignup,
   handleSignin,
   handleGetUsers,
-  handleSecret
+  handleSecret,
 }
