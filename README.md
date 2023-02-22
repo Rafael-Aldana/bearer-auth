@@ -11,9 +11,9 @@ API where we authenticate users with basic authentication and bearer authenticat
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/Rafael-Aldana/basic-auth/actions)
-- [back-end server dev url](https://github.com/Rafael-Aldana/basic-auth/tree/dev)
-- [back-end server prod url](https://github.com/Rafael-Aldana/basic-auth)
+- [GitHub Actions ci/cd](https://github.com/Rafael-Aldana/bearer-auth/actions/new)
+- [back-end server dev url](https://github.com/Rafael-Aldana/bearer-auth/tree/dev)
+- [back-end server prod url](https://github.com/Rafael-Aldana/bearer-auth)
 
 ### Setup
 
